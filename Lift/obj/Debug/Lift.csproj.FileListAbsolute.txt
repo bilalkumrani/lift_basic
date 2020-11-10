@@ -1,0 +1,11 @@
+C:\Users\Bilal Khan\source\repos\Lift\Lift\bin\Debug\Lift.exe.config
+C:\Users\Bilal Khan\source\repos\Lift\Lift\bin\Debug\Lift.exe
+C:\Users\Bilal Khan\source\repos\Lift\Lift\bin\Debug\Lift.pdb
+C:\Users\Bilal Khan\source\repos\Lift\Lift\obj\Debug\Lift.csprojAssemblyReference.cache
+C:\Users\Bilal Khan\source\repos\Lift\Lift\obj\Debug\Lift.Form1.resources
+C:\Users\Bilal Khan\source\repos\Lift\Lift\obj\Debug\Lift.Properties.Resources.resources
+C:\Users\Bilal Khan\source\repos\Lift\Lift\obj\Debug\Lift.csproj.GenerateResource.cache
+C:\Users\Bilal Khan\source\repos\Lift\Lift\obj\Debug\Lift.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Khan\source\repos\Lift\Lift\obj\Debug\Lift.exe
+C:\Users\Bilal Khan\source\repos\Lift\Lift\obj\Debug\Lift.pdb
+C:\Users\Bilal Khan\source\repos\Lift\Lift\obj\Debug\Lift.Form2.resources
