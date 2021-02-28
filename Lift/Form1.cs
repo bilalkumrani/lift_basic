@@ -14,7 +14,8 @@ namespace Lift
     public partial class Form1 : Form
     {
         int? floor=null;
-        System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"C:\Users\Bilal Khan\source\repos\Lift\Lift\tor2.wav");
+        //System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"C:\Users\Bilal Khan\source\repos\Lift\Lift\tor2.wav");
+        System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"C:\Users\PeaceSeeker\Documents\lift_basic\Lift\tor2.wav");
         public Form1()
         {
             InitializeComponent();
@@ -22,7 +23,7 @@ namespace Lift
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.lift.ImageLocation = @"C:\Users\Bilal Khan\source\repos\Lift\Lift\lift.png";
+            //this.lift.ImageLocation = @"C:\Users\Bilal Khan\source\repos\Lift\Lift\lift.png";
             
         }
 

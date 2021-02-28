@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btn4 = new System.Windows.Forms.Button();
             this.btn3 = new System.Windows.Forms.Button();
             this.btn2 = new System.Windows.Forms.Button();
@@ -89,6 +90,7 @@
             // 
             // lift
             // 
+            this.lift.Image = ((System.Drawing.Image)(resources.GetObject("lift.Image")));
             this.lift.Location = new System.Drawing.Point(312, 448);
             this.lift.Name = "lift";
             this.lift.Size = new System.Drawing.Size(64, 54);
